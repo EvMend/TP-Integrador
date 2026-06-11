@@ -10,7 +10,7 @@
 
 ## Descripción
 
-El presente trabajo práctico fue realizado sobre una máquina virtual Debian GNU/Linux, cumpliendo con los requerimientos solicitados para la configuración, administración, almacenamiento, respaldo y documentación de servicios en un entorno Linux.
+
 
 ---
 
@@ -214,17 +214,7 @@ fue comprimido y dividido en múltiples partes para su almacenamiento y distribu
 
 ---
 
-## Tecnologías Utilizadas
 
-* Debian 12 Bookworm
-* OpenSSH
-* Apache2
-* PHP
-* MariaDB
-* Bash
-* Cron
-* VirtualBox
-* GitHub
 
 ---
 
